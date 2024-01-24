@@ -122,7 +122,7 @@ iptables_allowed_tcp_ports:
 
 ## License
 
-MIT / BSD
+Unlicense
 
 ## Author Information
 
